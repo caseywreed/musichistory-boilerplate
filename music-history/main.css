@@ -33,6 +33,10 @@ nav ul li {
 	display: inline-block;
 }
 
+#searchForm {
+	padding: 10px;
+}
+
 #results {
 	background: #FEFAC0;
 	width:  75%;
